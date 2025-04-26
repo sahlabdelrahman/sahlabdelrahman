@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Sahl Abdelrahman</h1>
-<h3 align="center">Frontend Engineer | Building seamless, high-quality web experiences</h3>
+<h3 align="center">Software Engineer | Building seamless, high-quality web experiences</h3>
 
 <p align="center">
   <a href="https://twitter.com/sahlabdelrahman" target="_blank"><img src="https://img.shields.io/twitter/follow/sahlabdelrahman?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
@@ -12,7 +12,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 👷 I'm a passionate **Frontend Engineer** based in Cairo, Egypt.
+- 👷 I'm a passionate **Software Engineer** based in Cairo, Egypt.
 - 🚀 I specialize in **JavaScript**, **React.js**, **Next.js**, and **building full-stack apps** with **Node.js** and **MongoDB**.
 - ✨ I enjoy creating smooth, user-centric digital experiences and working closely with teams to deliver high-quality solutions.
 - 💡 Always learning and exploring new technologies to stay ahead.
